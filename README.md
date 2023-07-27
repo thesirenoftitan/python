@@ -1,2 +1,2 @@
 # python
-my python projects
+my python projects - a combination of things for my masters and CS50
