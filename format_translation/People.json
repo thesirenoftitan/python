@@ -1,1 +1,70 @@
-{"students": {"student": [{"fullName": {"@title": "Mrs", "firstName": "Lisa", "surname": "Penny", "other": {"@num": "1", "name": "Melanie"}}, "age": "32", "city": "London"}, {"fullName": {"@title": "Mr", "firstName": "Lorenzo", "surname": "Dubois", "other": {"@num": "2", "name": ["Ruelle", "Garlen"]}}, "age": "38", "city": "Paris"}, {"fullName": {"@title": "Mr", "firstName": "Takeshi", "surname": "Tanaka"}, "age": "25", "city": "Tokyo"}, {"fullName": {"@title": "Mr", "firstName": "Tanveer", "surname": "Patel", "other": {"@num": "1", "name": "Vihaan"}}, "age": "27", "city": "Mumbai"}, {"fullName": {"@title": "Miss", "firstName": "Iolanda", "surname": "Melo", "other": {"@num": "1", "name": "Bianca"}}, "age": "23", "city": "Lisbon"}]}}
+{
+    "students": {
+        "student": [
+            {
+                "fullName": {
+                    "@title": "Mrs",
+                    "firstName": "Lisa",
+                    "surname": "Penny",
+                    "other": {
+                        "@num": "1",
+                        "name": "Melanie"
+                    }
+                },
+                "age": "32",
+                "city": "London"
+            },
+            {
+                "fullName": {
+                    "@title": "Mr",
+                    "firstName": "Lorenzo",
+                    "surname": "Dubois",
+                    "other": {
+                        "@num": "2",
+                        "name": [
+                            "Ruelle",
+                            "Garlen"
+                        ]
+                    }
+                },
+                "age": "38",
+                "city": "Paris"
+            },
+            {
+                "fullName": {
+                    "@title": "Mr",
+                    "firstName": "Takeshi",
+                    "surname": "Tanaka"
+                },
+                "age": "25",
+                "city": "Tokyo"
+            },
+            {
+                "fullName": {
+                    "@title": "Mr",
+                    "firstName": "Tanveer",
+                    "surname": "Patel",
+                    "other": {
+                        "@num": "1",
+                        "name": "Vihaan"
+                    }
+                },
+                "age": "27",
+                "city": "Mumbai"
+            },
+            {
+                "fullName": {
+                    "@title": "Miss",
+                    "firstName": "Iolanda",
+                    "surname": "Melo",
+                    "other": {
+                        "@num": "1",
+                        "name": "Bianca"
+                    }
+                },
+                "age": "23",
+                "city": "Lisbon"
+            }
+        ]
+    }
+}
